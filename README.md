@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cos88
 - 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...Machine learning
 - 💞️ I’m looking to collaborate on ...Python development
 - 📫 How to reach me ...kostas72825@gmail.com
 
